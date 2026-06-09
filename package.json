@@ -1,0 +1,16 @@
+{
+  "name": "telegrambot_nodejs",
+  "version": "1.0.0",
+  "main": "chat_gpt.js",
+  "scripts": {
+    "dev":"nodemon chat_gpt.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["telegrambot_nodejs", "telegram bot", "future dev tech", "fdt"],
+  "author": "Future Dev Tech",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}
